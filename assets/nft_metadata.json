@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Sparky",
+      "symbol": "SPARK",
+      "uri": "https://your-metadata-uri.com/metadata/sparky",
+      "royalty": {
+        "percentage": 5,
+        "recipient": "creator_wallet_address" // Replace with actual wallet address
+      },
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Gritty Alley"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Vintage Leather Jacket"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Gold Pocket Watch"
+        },
+        {
+          "trait_type": "Personality",
+          "value": "Rebel with a Cause"
+        }
+      ],
+      "collection": {
+        "name": "Underdogs",
+        "family": "Peaky Barkers"
+      },
+      "creator": "BARK Protocol",
+      "description": "Sparky embodies the rebellious spirit of the Underdogs collection. His vintage leather jacket and gold pocket watch highlight his daring and charismatic personality.",
+      "image": "https://your-image-uri.com/images/sparky.png", // Replace with actual image URL
+      "external_url": "https://your-nft-uri.com/sparky"
+    },
+    {
+      "name": "BARK",
+      "symbol": "BARK",
+      "uri": "https://your-metadata-uri.com/metadata/bark",
+      "royalty": {
+        "percentage": 5,
+        "recipient": "creator_wallet_address" // Replace with actual wallet address
+      },
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Dimly Lit Street"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Pinstripe Suit"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Flat Cap"
+        },
+        {
+          "trait_type": "Personality",
+          "value": "Classic Sophisticate"
+        }
+      ],
+      "collection": {
+        "name": "Underdogs",
+        "family": "Peaky Barkers"
+      },
+      "creator": "BARK Protocol",
+      "description": "BARK represents the quintessential classic sophisticate of the Underdogs collection, featuring a pinstripe suit and flat cap. This NFT captures the elegance and timeless style of the Peaky Barkers.",
+      "image": "https://your-image-uri.com/images/bark.png", // Replace with actual image URL
+      "external_url": "https://your-nft-uri.com/bark"
+    },
+    {
+      "name": "Bruno",
+      "symbol": "BRUNO",
+      "uri": "https://your-metadata-uri.com/metadata/bruno",
+      "royalty": {
+        "percentage": 5,
+        "recipient": "creator_wallet_address" // Replace with actual wallet address
+      },
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Industrial District"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Overcoat"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Cane"
+        },
+        {
+          "trait_type": "Personality",
+          "value": "Powerful Leader"
+        }
+      ],
+      "collection": {
+        "name": "Underdogs",
+        "family": "Peaky Barkers"
+      },
+      "creator": "BARK Protocol",
+      "description": "Bruno is a commanding figure in the Underdogs collection. His distinguished overcoat and cane highlight his powerful and authoritative presence.",
+      "image": "https://your-image-uri.com/images/bruno.png", // Replace with actual image URL
+      "external_url": "https://your-nft-uri.com/bruno"
+    },
+    {
+      "name": "Bark Flatcap",
+      "symbol": "BFLAT",
+      "uri": "https://your-metadata-uri.com/metadata/bark-flatcap",
+      "royalty": {
+        "percentage": 5,
+        "recipient": "creator_wallet_address" // Replace with actual wallet address
+      },
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Stylish Rooftop"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Sharp Overcoat"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Classic Flat Cap"
+        },
+        {
+          "trait_type": "Personality",
+          "value": "Charming Diplomat"
+        }
+      ],
+      "collection": {
+        "name": "Underdogs",
+        "family": "Peaky Barkers"
+      },
+      "creator": "BARK Protocol",
+      "description": "Bark Flatcap is known for his charm and diplomacy within the Underdogs collection. His classic flat cap and sharp overcoat reflect his refined and charming personality.",
+      "image": "https://your-image-uri.com/images/bark-flatcap.png", // Replace with actual image URL
+      "external_url": "https://your-nft-uri.com/bark-flatcap"
+    }
+  ]
+  

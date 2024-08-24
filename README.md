@@ -35,7 +35,7 @@ bark-nft-minting-dapp/
 │
 ├── assets/
 │   └── metadata/
-│       └── sample_metadata.json # Example metadata for NFTs
+│       └── nft_metadata.json # Example metadata for NFTs
 │
 ├── tests/
 │   ├── app.test.ts       # Tests for the main application logic
