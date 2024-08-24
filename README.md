@@ -15,6 +15,47 @@ The BARK NFT Minting Dapp allows users to mint, stake, fractionalize, and buy ou
 - **Email Notifications**: Receive email alerts for NFT-related activities.
 - **Secure File Upload**: Uses Uploadcare for storing NFT metadata.
 
+## Project Structure
+
+```
+bark-nft-minting-dapp/
+│
+├── src/
+│   ├── index.ts          # Entry point of the application
+│   ├── app.ts            # Main application logic for NFT minting, staking, etc.
+│   ├── nft.ts            # Functions and utilities related to NFTs
+│   ├── staking.ts        # Functions for staking NFTs
+│   ├── fractionalization.ts # Functions for fractionalizing NFTs
+│   ├── buyout.ts         # Functions for initiating buyouts
+│   ├── utils/
+│   │   ├── uploadcare.ts # Utility functions for Uploadcare integration
+│   │   ├── email.ts      # Utility functions for sending emails
+│   │   └── validation.ts # Utility functions for validating NFT metadata
+│   └── config.ts         # Configuration file and environment variables handling
+│
+├── assets/
+│   └── metadata/
+│       └── sample_metadata.json # Example metadata for NFTs
+│
+├── tests/
+│   ├── app.test.ts       # Tests for the main application logic
+│   ├── nft.test.ts       # Tests for NFT-related functions
+│   ├── staking.test.ts   # Tests for staking functionality
+│   ├── fractionalization.test.ts # Tests for fractionalization functionality
+│   └── buyout.test.ts    # Tests for buyout functionality
+│
+├── scripts/
+│   ├── deploy.ts         # Script for deploying smart contracts or other deployment tasks
+│   ├── setup.ts          # Script for setting up the development environment
+│   └── example.ts        # Example script to demonstrate usage
+│
+├── .env                  # Environment variables
+├── .gitignore             # Git ignore file
+├── package.json           # NPM package descriptor
+├── README.md             # Project documentation
+└── tsconfig.json         # TypeScript configuration
+```
+
 ## Getting Started
 
 ### Prerequisites
